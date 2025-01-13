@@ -1,0 +1,11 @@
+/* Footer.css */
+footer {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    font-size: .75rem;
+}
