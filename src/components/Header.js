@@ -9,8 +9,8 @@ const Header = () => {
                 <div className="d-flex justify-content-between align-items-center">
                     <h1 className="h3">Frank Schweitzer</h1>
                     <nav>
-                        <a href="/" className="text-white mx-2">Home</a>
-                        <a href="/projects" className="text-white mx-2">Projects</a>
+                        <a href="#/" className="text-white mx-2">Home</a>
+                        <a href="#/projects" className="text-white mx-2">Projects</a>
                     </nav>
                 </div>
             </div>
