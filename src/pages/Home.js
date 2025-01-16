@@ -8,7 +8,7 @@ const Home = () => {
     const [selectedEvent, setSelectedEvent] = useState(null);
 
     const timelineEvents = [
-        { year: 'Summer 2022', event: 'Software Engineer @ Peraton', details: 'Worked on the Consular Systems Modernization contract.' },
+        { year: 'Summer 2022', event: 'Software Engineer @ Peraton', details: 'Worked on the State Department Consular Systems Modernization contract.' },
         { year: 'Summer 2023', event: 'Software Engineer @ Capital One', details: 'Full Stack Engineer on part of the Pre-Approvals team in the Card Tech business. Used Java Spring Boot and Angular with Typescript.' },
         { year: 'Spring 2024', event: 'Graduated from Wake Forest University', details: 'Magna Cum Laude double major graduate: BS Computer Science & BA Mathematics. CS Coursework: CS Fundamentals, Data Structures & Algorithms, Programming Languages, Computer Systems, Algorithm Design & Analysis, Deep Learning & Neural Networks, Computer Vision, Cloud Computing, iOS Development. Math Coursework: Multivariable Calculus, Linear Algebra, Numerical Linear Algebra, Discerete Dynamical Systems, Probability Theory, Real Analysis, Abstract Algebra, Operations Research.' },
         { year: 'Now', event: 'Software Engineer @ Capital One', details: 'Backend Engineer on the Enterprise Payment Debit Acceptance team. Use Java Spring Boot, Python Lambdas, Go, as well as AWS services.' },
