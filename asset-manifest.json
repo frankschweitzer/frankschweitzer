@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/frankschweitzer/static/css/main.3b588bc6.css",
-    "main.js": "/frankschweitzer/static/js/main.aafba8d5.js",
+    "main.css": "/frankschweitzer/static/css/main.23bb8fd8.css",
+    "main.js": "/frankschweitzer/static/js/main.07db85f9.js",
     "static/js/488.f31e338d.chunk.js": "/frankschweitzer/static/js/488.f31e338d.chunk.js",
     "static/media/bootstrap-icons.woff?": "/frankschweitzer/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/frankschweitzer/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/frankschweitzer/index.html",
-    "main.3b588bc6.css.map": "/frankschweitzer/static/css/main.3b588bc6.css.map",
-    "main.aafba8d5.js.map": "/frankschweitzer/static/js/main.aafba8d5.js.map",
+    "main.23bb8fd8.css.map": "/frankschweitzer/static/css/main.23bb8fd8.css.map",
+    "main.07db85f9.js.map": "/frankschweitzer/static/js/main.07db85f9.js.map",
     "488.f31e338d.chunk.js.map": "/frankschweitzer/static/js/488.f31e338d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b588bc6.css",
-    "static/js/main.aafba8d5.js"
+    "static/css/main.23bb8fd8.css",
+    "static/js/main.07db85f9.js"
   ]
 }
