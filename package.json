@@ -1,7 +1,7 @@
 {
   "name": "frank-portfolio",
   "version": "0.1.0",
-  "homepage": "https://frankschweitzer.github.io/frankschweitzer.github.io",
+  "homepage": "https://frankschweitzer.github.io/frankschweitzer",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.3",
