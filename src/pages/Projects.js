@@ -2,8 +2,6 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from '../components/Card';
 import '../assets/styles/Projects.css';
-import Cube from '../assets/images/Cube.jpg';
-import BullMarket from '../assets/images/bullMKTlogo.png';
 
 const Projects = () => {
     return (
