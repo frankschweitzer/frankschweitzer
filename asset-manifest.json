@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/frankschweitzer.github.io/static/css/main.48e6eaa5.css",
+    "main.js": "/frankschweitzer.github.io/static/js/main.112af690.js",
+    "static/js/488.f31e338d.chunk.js": "/frankschweitzer.github.io/static/js/488.f31e338d.chunk.js",
+    "static/media/Cube.jpg": "/frankschweitzer.github.io/static/media/Cube.ed68ca6bf2f4291b917c.jpg",
+    "static/media/bullMKTlogo.png": "/frankschweitzer.github.io/static/media/bullMKTlogo.a55f4437eaf122e8c5c5.png",
+    "static/media/bootstrap-icons.woff?": "/frankschweitzer.github.io/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/frankschweitzer.github.io/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/frankschweitzer.github.io/index.html",
+    "main.48e6eaa5.css.map": "/frankschweitzer.github.io/static/css/main.48e6eaa5.css.map",
+    "main.112af690.js.map": "/frankschweitzer.github.io/static/js/main.112af690.js.map",
+    "488.f31e338d.chunk.js.map": "/frankschweitzer.github.io/static/js/488.f31e338d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e6eaa5.css",
+    "static/js/main.112af690.js"
+  ]
+}
